@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+transformers
+scikit-learn
+pillow
+mtcnn
+opencv-python
+joblib
+tensorflow
+tf-keras
